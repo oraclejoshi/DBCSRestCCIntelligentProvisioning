@@ -1,0 +1,11 @@
+{
+    "apiVersion": "1.0",
+    "swaggerVersion": "1.2",
+    "basePath": "/mobile/custom/DBCSRestCC",
+    "apis": [],
+    "models": {},
+    "info": {
+        "title": "DBCSRestCC",
+        "description": "Custom Component for American eagle outfitters Bot"
+    }
+}

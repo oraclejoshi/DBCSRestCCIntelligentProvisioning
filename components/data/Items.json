@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pull Out Faucet",
+    "ProductId": 1,
+    "Subtitle": "Easily wipe away with Touch-Clean spray holes",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/pullOut.jpg",
+    "Details": "1) Single handle kitchen faucets for exposed mounting on 1, 2, 3 and 4 hole sinks.\n2) Centermount or 8\" (203 mm) centers with optional 10 1/2 (267 mm) long escutcheon included.\n3) 7 1/4\" (184 mm) high, 8 1/8\" (206 mm) long spout nestled in metal hub assembly, swings 120.\n4) Spout is connected to valve body with a 53'' (1346 mm) long hose.\n5) Pull-out spout operates in an aerated or spray mode via an easy push button.\n6) Lever handle shall return to neutral position when valve is turned off."
+  },
+  {
+    "Id": 2,
+    "Name": "Traditional Faucet",
+    "ProductId": 1,
+    "Subtitle": "One-handle and two-handle options,contemporary/ modern look.",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/traditional-faucets.jpg",
+    "Details": "1) 3-hole 8\" installation\n2) High-arc spout swivels 360 degrees\n3) Backed by Delta Faucet's Lifetime Limited Warranty"
+  },
+  {
+    "Id": 3,
+    "Name": "Wall Mount Faucet",
+    "ProductId": 1,
+    "Subtitle": "Clutter-free design , works well with vessel or wall mount sinks.",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/wallMount.jpg",
+    "Details": "1) Ceramic Disc Valve Cartridges: Assures a lifetime of\ndrip-free performance.\n2) Solid Brass Construction: Durable. Ideal for prolonged\ncontact with water.\n3) Lead Free: Faucet contains ≤ 0.25% total lead content by\nweighted average.\n4) Choice of Finishes: Available in Polished Chrome or\nStainless Steel (PVD)."
+  },
+  {
+    "Id": 4,
+    "Name": "Delta Shower",
+    "ProductId": 2,
+    "Subtitle": "Delta Porter Single-Handle 3-Spray Shower Faucet in Brushed Nickel",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/delta.jpg",
+    "Details": "1) Back-to-back installation capability.\n2) Solid brass forged body.\n3) Field adjustable means to limit handle rotation into hot\n water zone.\n4) 120° maximum handle rotation"
+  },
+  {
+    "Id": 5,
+    "Name": "Diamond Sink",
+    "ProductId": 3,
+    "Subtitle": "Blanco Diamond Dual Mount Granite 33 in. 1-Hole Single Bowl.",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/diamond.jpg",
+    "Details": "1) Required outside cabinet: 33\" (drop-in), 36” (undermount)\n2) 80% solid granite\n3) Heat resistant up to 536°F\n4) Unsurpassed cleanability backed by industry"
+  },
+  {
+    "Id": 6,
+    "Name": "Double",
+    "ProductId": 3,
+    "Subtitle": "Spacious double bowl design",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/double.jpg",
+    "Details": "1. Required outside cabinet: 36\" \n2. 80% solid granite \n3. Heat resistant up to 536°F \n4. Unsurpassed cleanability backed by industry leading 7 patents! \n5. Resistant to scratches"
+  },
+  {
+    "Id": 7,
+    "Name": "Dual Mount",
+    "ProductId": 3,
+    "Subtitle": "Heat-resistant to 536 degrees Fahrenheit",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/dualMount.jpg",
+    "Details": "1. Required outside cabinet: 33\" (drop-in), 36” (undermount) \n2. 80% solid granite \n3. Heat resistant up to 536°F \n4. Unsurpassed cleanability backed by industry leading 7 patents! \n5. Resistant to scratches, stains and all household acids and alkali solutions"
+  },
+  {
+    "Id": 8,
+    "Name": "Glacier Shower",
+    "ProductId": 2,
+    "Subtitle": "3-Spray 3.45 in. Fixed Shower Head in Chrome",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/Glacier.jpg",
+    "Details": "1. 3-spray settings; full, pulse/full and full/pulse combination\n2. Chrome finish will complement a wide variety of decor\n3. Rub clean nozzles for easy maintenance and lasting durability\n4. Easy, tool-free maintenance"
+  },
+  {
+    "Id": 9,
+    "Name": "Top Shower",
+    "ProductId": 2,
+    "Subtitle": "1-spray Single Function 10 in. Contemporary Round Raincan Showerhead in Polished Chrome",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/top.jpg",
+    "Details": "1. Single function Rain showerhead \n2. MasterCleanTM spray nozzles to prohibit mineral build-up for easy cleaning \n3. KatalystTM Spray Technology with air induction ball joint (patent pending) \n4. Optimized spray face for maximum performance \n5. Solid brass construction \n6. 2.5 gallon (9.5 L) per minute flow rate \n7. 1/2″ - 14 NPT connection"
+  },
+  {
+    "Id": 10,
+    "Name": "Closed Front",
+    "ProductId": 4,
+    "Subtitle": "Closed Front Toilet Seat in Platinum",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/closedFront.jpg",
+    "Details": "1. Size: Round \n2. Material: Plastic \n3. Style: Closed Front with Cover \n4. Bumpers: Four \n5. Hinges: Plastic"
+  },
+  {
+    "Id": 11,
+    "Name": "Elongated",
+    "ProductId": 4,
+    "Subtitle": "Elongated White Bidet Smart Toilet Seat",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/elongated.jpg",
+    "Details": "1. ABS\n2. Imported\n3. 3 IN 1 STAINLESS STEEL NOZZLE - Offers posterior, feminine, and vortex washes, improves hygiene\n4. SMART SEAT-SMART DECISION-Streamlined comfort-adjustable heated seat and water, slow closing lid"
+  },
+  {
+    "Id": 12,
+    "Name": "Round",
+    "ProductId": 4,
+    "Subtitle": "Close Round Closed Front Toilet Seat in White",
+    "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/round.jpg",
+    "Details": "1. STA-TITE seat fastening system never loosens and installs with ease\n2. Whisper Close hinge slowly and quietly closes eliminating slamming and pinched fingers\n3. Resilient plastic with molded-in color resists wear, chips and stains\n4. Color-matched bumpers and hinges"
+  }
+]

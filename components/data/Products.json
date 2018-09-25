@@ -1,0 +1,30 @@
+[
+ {
+   "Id": 1,
+   "Name": "Faucets",
+   "CategoryId": 1,
+   "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/1.jpg",
+   "Subtitle": "Fits on sinks with just one hole, no deck plate needed."
+ },
+ {
+   "Id": 2,
+   "Name": "Shower",
+   "CategoryId": 2,
+   "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/4.jpg",
+   "Subtitle": "1,2,3 Sprays ,Polished Chrome, Brushed Nickel."
+ },
+ {
+   "Id": 3,
+   "Name": "Sinks",
+   "CategoryId": 1,
+   "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/2.jpg",
+   "Subtitle": "Single Bowl, Double Bowl,3 in 1."
+ },
+ {
+   "Id": 4,
+   "Name": "Toilet Seat",
+   "CategoryId": 2,
+   "ImageUrl": "https://raw.githubusercontent.com/austinappdev/Imgs/master/3.jpg",
+   "Subtitle": "Closed, Elongated,Round."
+ }
+]

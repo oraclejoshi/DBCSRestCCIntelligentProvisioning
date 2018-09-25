@@ -1,0 +1,20 @@
+{
+  "name": "DBCSRestCC",
+  "version": "3.0.0",
+  "description": "Custom Component for MTA Bot",
+  "main": "DBCSRestCC.js",
+  "oracleMobile": {
+    "dependencies": {
+      "apis": {},
+      "connectors": {}
+    }
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "joi": "^9.2.0",
+    "lodash": "^4.17.4",
+    "log4js": "^0.6.38",
+    "request": "^2.83.0"
+  }
+}
